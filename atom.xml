@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>SAUD&#x27;S BLOG</title>
+    <subtitle>This is an example description</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://frenchfries2905.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://frenchfries2905.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-29T00:00:00+00:00</updated>
+    <id>https://frenchfries2905.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>this is a test post</title>
+        <published>2024-11-29T00:00:00+00:00</published>
+        <updated>2024-11-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://frenchfries2905.github.io/posts/test/"/>
+        <id>https://frenchfries2905.github.io/posts/test/</id>
+        
+        <content type="html" xml:base="https://frenchfries2905.github.io/posts/test/">&lt;p&gt;#This is a test
+test
+test test
+tests
+so[jtgsfgjp
+ghipghfpidjg
+gjipsjgpsj
+ignfdpgj
+fgpdd&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
