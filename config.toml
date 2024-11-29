@@ -1,7 +1,12 @@
 # The URL the site will be built for
 base_url = "https://frenchfries2905.github.io/"
-
-theme = "apollo"
+theme="apollo"
+title = "SAUD'S BLOG"
+description = "This is an example description"
+build_search_index = false
+generate_feeds = true
+compile_sass = true
+minify_html = true
 taxonomies = [{ name = "tags" }]
 
 
@@ -15,7 +20,7 @@ build_search_index = true
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-
+highlight_theme = "ayu-light"
 [extra]
 # Put all your custom variables here
 toc = true
@@ -26,7 +31,7 @@ fancy_code = true
 dynamic_note = true           # a note that can be toggled
 mathjax = true
 mathjax_dollar_inline_enable = true
-repo_url = "https://github.com/not-matthias/apollo/tree/main/content"
+repo_url = "https://github.com/FrenchFries2905/zola-theme-blog"
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
