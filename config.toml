@@ -20,7 +20,7 @@ highlight_code = true
 # Put all your custom variables here
 toc = true
 use_cdn = false
-favicon = "/home/adeen/new-blog/fc2b97d69376e82c74f085d9b2716964.jpg"
+favicon = "zola-theme-blog/fc2b97d69376e82c74f085d9b2716964.jpg"
 theme = "toggle"              # light, dark, auto, toggle
 fancy_code = true
 dynamic_note = true           # a note that can be toggled
